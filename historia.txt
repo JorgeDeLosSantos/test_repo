@@ -1,3 +1,5 @@
 Este es la historia de un perrito
 
-El perrito tiene 10 años, vive en Lisboa.
+El perrito tiene 15 años, vive en Lisboa.
+
+Agregamos otra línea
